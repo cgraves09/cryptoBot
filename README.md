@@ -2,7 +2,7 @@
 Version 1.0.0
 
 ## App Rundown
-### CryptoBot is an CLI App Node.js application to automate trading of cryptocurrencies. 
+### CryptoBot is an CLI Node.js application to automate trading of cryptocurrencies. 
 
 
 ## Packages, Node, Axios
